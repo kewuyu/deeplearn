@@ -14,5 +14,5 @@
 #### [1.3模型训练](https://github.com/kewuyu/deeplearn/tree/main/01-pytorch/1.3%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E6%B5%81%E7%A8%8B)
 #### [1.4pytorch模版](https://github.com/kewuyu/deeplearn/tree/main/01-pytorch/1.4pytorch-template)
 ### 二、深度学习经典论文模型学习
+#### [2.1resnet-34](https://github.com/kewuyu/deeplearn/blob/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.1-resnet34.ipynb)
 
-后续补充
