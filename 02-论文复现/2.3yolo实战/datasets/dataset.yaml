@@ -1,0 +1,6 @@
+# YOLOv5/YOLOv8 数据集配置
+path: /Users/kewuyu/课程资料/草稿/yolo/datasets
+train: images/train
+val: images/val
+nc: 0  # 类别数量，请根据实际情况修改
+names: []  # 类别名称，请根据实际情况修改
