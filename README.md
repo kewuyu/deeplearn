@@ -16,4 +16,4 @@
 ### 二、深度学习经典论文模型学习
 #### [2.1resnet-34](https://github.com/kewuyu/deeplearn/blob/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.1-resnet34.ipynb)
 #### [2.2YOLOv1](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.2YOLO)
-
+#### [2.3Unet](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.3Unet)
