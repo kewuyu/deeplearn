@@ -17,3 +17,5 @@
 #### [2.1resnet-34](https://github.com/kewuyu/deeplearn/blob/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.1-resnet34.ipynb)
 #### [2.2YOLOv1](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.2YOLO)
 #### [2.3Unet](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.3Unet)
+#### [2.4循环神经网络](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.4%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+#### [2.5Seq2Seq](https://github.com/kewuyu/deeplearn/tree/main/02-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/2.5Seq2Seq)
